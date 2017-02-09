@@ -7,7 +7,7 @@ I detta repository hittar du två projekt, **Application** och **gaia-translate-
 **Application** är en Angular 2 app och ska när den körs rendera en sida enligt följande bild.
 **gaia-translate-extract** är ett projekt som hittar och extraherar texter som ska översättas från en Angular 2 app.
 
-![alt tag](https://raw.githubusercontent.com/GaiaSystem/Ng2TranslateExtractAssignment/master/image1.png)
+![Alt text](image1.PNG?raw=true "Application")
 
 ## Uppgift 1
 Det första du ska göra är att få igång **Application**.
