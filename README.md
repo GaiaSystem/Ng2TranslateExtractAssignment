@@ -1,11 +1,13 @@
-# Ng2TranslateExtractAssignment-
+# Ng2TranslateExtractAssignment
 
 Välkommen till Ng2TranslateExtractAssignment.
+
 I detta repository hittar du två projekt, **Application** och **gaia-translate-extract**.
+
 **Application** är en Angular 2 app och ska när den körs rendera en sida enligt följande bild.
 **gaia-translate-extract** är ett projekt som hittar och extraherar texter som ska översättas från en Angular 2 app.
 
-BILD1
+![alt tag](https://raw.githubusercontent.com/GaiaSystem/Ng2TranslateExtractAssignment/master/image1.png)
 
 ## Uppgift 1
 Det första du ska göra är att få igång **Application**.
@@ -21,9 +23,10 @@ Som du ser är översättningarna i filen inte sorterade i bokstavsordning. Din 
 att det är möjligt att få översättningar sorterade i bokstavsordning om man skulle vilja.
 
 Gör följande:
-1. Lägg till en flagga för kommandot ng2-translate-extract som heter --sort.
-2. Modifiera TranslationCollection så att det finns möjlighet att sortera översättningar.
-3. Gör så att filen med översättningar sorteras i alfabetisk ordning om flaggan "--sort" används.
+
+    1. Lägg till en flagga för kommandot ng2-translate-extract som heter --sort.
+    2. Modifiera TranslationCollection så att det finns möjlighet att sortera översättningar.
+    3. Gör så att filen med översättningar sorteras i alfabetisk ordning om flaggan "--sort" används.
 
 ## Uppgift 3 (Bonus)
 Om du har lust, tid och möjligt skriv enhetstester för den kod du utvecklat i *Uppgift 2*.
