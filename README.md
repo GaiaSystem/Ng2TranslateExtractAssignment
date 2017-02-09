@@ -15,8 +15,8 @@ Det första du ska göra är att få igång **Application**.
 Börja med att klona detta repository och starta **Application** på din egen dator.
 
 ## Uppgift 2
-Som du kanske har sett så är orden som listan i **Application** märkta med ett direktiv som heter *translate*.
-Detta används för att förstå vilka delar av applikationen som ska kunna översättas till andra språk.
+Som du kanske har sett är orden som listas i **Application** märkta med ett direktiv som heter *translate*.
+Detta används för att förstå vilka delar av applikationen som ska översättas till andra språk.
 
 Om du kör kommandot *npm run extract:translations* så kommer det genereras en fil *./src/translations/zh_CN.json* där det är möjligt
 att skriva kinesiska översättningar för de extraherade orden.
