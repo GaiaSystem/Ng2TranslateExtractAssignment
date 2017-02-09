@@ -21,7 +21,7 @@ Detta används för att förstå vilka delar av applikationen som ska översätt
 Om du kör kommandot *npm run extract:translations* så kommer det genereras en fil *./src/translations/zh_CN.json* där det är möjligt
 att skriva kinesiska översättningar för de extraherade orden.
 Som du ser är översättningarna i filen inte sorterade i bokstavsordning. Din uppgift är att modifiera **gaia-translate-extract** så
-att det är möjligt att få översättningar sorterade i bokstavsordning om man skulle vilja.
+att det är möjligt att få översättningar i filen *./src/translations/zh_CN.json* sorterade i bokstavsordning om man skulle vilja. (OBS! Det är inte listan som visas i webbläsaren som ska sorteras, utan själva filen zh_CH.json)
 
 Gör följande:
 
