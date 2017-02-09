@@ -4,7 +4,7 @@ Välkommen till Ng2TranslateExtractAssignment.
 
 I detta repository hittar du två projekt, **Application** och **gaia-translate-extract**.
 
-**Application** är en Angular 2 app och ska när den körs rendera en sida enligt följande bild.
+**Application** är en Angular 2 app som när den körs rendera en sida enligt följande bild.
 
 ![Alt text](image1.PNG?raw=true =250x "Application")
 
