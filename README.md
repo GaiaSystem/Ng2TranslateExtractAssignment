@@ -30,7 +30,7 @@ Gör följande:
     3. Gör så att filen med översättningar sorteras i alfabetisk ordning om flaggan "--sort" används.
 
 ## Uppgift 3 (Bonus)
-Om du har lust, tid och möjligt skriv enhetstester för den kod du utvecklat i *Uppgift 2*.
+Om du har lust, tid och möjlighet skriv enhetstester för den kod du utvecklat i *Uppgift 2*.
 
 # Lycka till!
 
